@@ -1,0 +1,2 @@
+# PodSpire
+It is a community-based gardening application, which allows users to meet with local nearby gardeners and related services along with the global outlook of the same. It focuses on four main domains: Plant Identification, Plant care, Building a community and connecting local gardening services with the home gardens. One can share the experience as an answer to the question, by contributing in a discussion, by posting about their journey in the form of photos, videos, or blogs thus actively participating in community activities.
